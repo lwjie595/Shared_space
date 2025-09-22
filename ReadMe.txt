@@ -1,3 +1,5 @@
+This is the code for ICLR2026 submission
+
 Our gating-driven mechanism is applied into MME, CDAC and ECB, which named as MME-G, CDAC-G and ECB-G here.
 
 
