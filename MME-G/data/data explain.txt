@@ -1,0 +1,8 @@
+DomainNet:
+	download: http://csr.bu.edu/ftp/visda/2019/multi-source/
+	其中，clipart和painting在
+		http://csr.bu.edu/ftp/visda/2019/multi-source/groundtruth/
+	detail explain: https://ai.bu.edu/M3SDA/#code
+
+Office Home：
+	https://www.hemanthdv.org/officeHomeDataset.html

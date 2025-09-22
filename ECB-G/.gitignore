@@ -1,0 +1,10 @@
+/results
+/logs*
+/pretrained_models
+__pycache__/
+*.pyc
+*.mp4
+*.pth
+*.pth.tar
+/test/*
+/backuplog/*
